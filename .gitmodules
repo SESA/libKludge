@@ -1,0 +1,6 @@
+[submodule "sloader"]
+	path = sloader
+	url = https://github.com/F-Wilke/libsloader
+[submodule "bash"]
+	path = bash
+	url = https://git.savannah.gnu.org/git/bash.git
